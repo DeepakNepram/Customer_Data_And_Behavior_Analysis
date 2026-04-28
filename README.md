@@ -1,4 +1,5 @@
 Customer Shopping Behavior: End-to-End Data Pipeline & Analysis
+
 📌 Project Overview
 This project demonstrates a complete data engineering and analytics workflow. I transformed raw consumer data using Python, migrated it to a cloud-based PostgreSQL database (Neon), and performed deep SQL analysis to drive business insights. The final stage involved building an interactive dashboard in Power BI to visualize customer segments and purchasing patterns.
 
